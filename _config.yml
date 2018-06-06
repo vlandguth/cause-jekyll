@@ -1,6 +1,6 @@
 ---
 title: Cause Template
-timezone: Etc/UTC
+timezone: UTC
 collections:
   posts:
     title: Posts
@@ -30,10 +30,10 @@ defaults:
     path: ''
   values:
     layout: default
-url: https://clean-oryx.cloudvent.net
+url: https://vlandguth.github.io/cause-jekyll/
 baseurl: 
 google_analytics_key: 
-logo: "/siteicon.png"
+logo: "/uploads/github-black.png"
 description: Jekyll template with example content for a not-for-profit organisation.
 author:
   name: 
