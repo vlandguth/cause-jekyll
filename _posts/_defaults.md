@@ -1,5 +1,4 @@
 ---
-title:
-author_staff_member:
-date:
+author_staff_member: 
 ---
+
